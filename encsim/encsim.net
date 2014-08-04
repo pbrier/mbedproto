@@ -1,0 +1,724 @@
+# EESchema Netlist Version 1.1 created  5/12/2014 20:07:42
+(
+ ( /53710D00 $noname  P29 CONN_8 {Lib=CONN_8}
+  (    1 ? )
+  (    2 ? )
+  (    3 ? )
+  (    4 ? )
+  (    5 ? )
+  (    6 ? )
+  (    7 ? )
+  (    8 ? )
+ )
+ ( /53710CF3 $noname  P28 CONN_8 {Lib=CONN_8}
+  (    1 ? )
+  (    2 ? )
+  (    3 ? )
+  (    4 ? )
+  (    5 ? )
+  (    6 ? )
+  (    7 ? )
+  (    8 ? )
+ )
+ ( /536F8626 $noname  U1 75ALS192-DRIVER {Lib=75ALS192-DRIVER}
+  (    1 /ENC_A )
+  (    2 /ENC_AP )
+  (    3 /ENC_AN )
+  (    4 +5V )
+  (    5 /ENC_BN )
+  (    6 /ENC_BP )
+  (    7 /ENC_B )
+  (    8 GND )
+  (    9 /ENC_Z )
+  (   10 /ENC_ZP )
+  (   11 /ENC_ZN )
+  (   12 GND )
+  (   13 ? )
+  (   14 ? )
+  (   15 GND )
+  (   16 +5V )
+ )
+ ( /536FEE35 $noname  P27 ENCODER_(D9-M) {Lib=CONN_9}
+  (    1 GND )
+  (    2 /ENC_ZP )
+  (    3 /ENC_BP )
+  (    4 /ENC_AP )
+  (    5 +5V )
+  (    6 /ENC_ZN )
+  (    7 /ENC_BN )
+  (    8 /ENC_AN )
+  (    9 GND )
+ )
+ ( /536FDD52 R4  R2 100R {Lib=R}
+  (    1 N-000031 )
+  (    2 /ENC_DI )
+ )
+ ( /536FD266 $noname  P26 ENC_SE {Lib=CONN_4}
+  (    1 /ENC_Z )
+  (    2 /ENC_B )
+  (    3 /ENC_A )
+  (    4 GND )
+ )
+ ( /536FCF2C $noname  P25 CONN_8 {Lib=CONN_8}
+  (    1 ? )
+  (    2 ? )
+  (    3 ? )
+  (    4 ? )
+  (    5 ? )
+  (    6 ? )
+  (    7 ? )
+  (    8 ? )
+ )
+ ( /536FCF29 $noname  P24 CONN_8 {Lib=CONN_8}
+  (    1 ? )
+  (    2 ? )
+  (    3 ? )
+  (    4 ? )
+  (    5 ? )
+  (    6 ? )
+  (    7 ? )
+  (    8 ? )
+ )
+ ( /536FCB66 $noname  K2 5V {Lib=CONN_3}
+  (    1 +5V )
+  (    2 +5V )
+  (    3 +5V )
+ )
+ ( /536FCB62 $noname  K3 GND {Lib=CONN_3}
+  (    1 GND )
+  (    2 GND )
+  (    3 GND )
+ )
+ ( /536FCB5C $noname  K1 3V3 {Lib=CONN_2}
+  (    1 +3V3 )
+  (    2 +3V3 )
+ )
+ ( /536FC5A5 $noname  P22 CONN_8 {Lib=CONN_8}
+  (    1 N-000062 )
+  (    2 N-000063 )
+  (    3 N-000064 )
+  (    4 N-000065 )
+  (    5 N-000066 )
+  (    6 N-000067 )
+  (    7 N-000068 )
+  (    8 N-000069 )
+ )
+ ( /536FC590 $noname  P23 CONN_8 {Lib=CONN_8}
+  (    1 N-000070 )
+  (    2 N-000051 )
+  (    3 N-000042 )
+  (    4 N-000043 )
+  (    5 N-000044 )
+  (    6 N-000045 )
+  (    7 N-000046 )
+  (    8 N-000047 )
+ )
+ ( /536FB985 $noname  P20 CONN_8 {Lib=CONN_8}
+  (    1 ? )
+  (    2 ? )
+  (    3 ? )
+  (    4 ? )
+  (    5 ? )
+  (    6 ? )
+  (    7 ? )
+  (    8 ? )
+ )
+ ( /536FB981 $noname  P18 CONN_8 {Lib=CONN_8}
+  (    1 ? )
+  (    2 ? )
+  (    3 ? )
+  (    4 ? )
+  (    5 ? )
+  (    6 ? )
+  (    7 ? )
+  (    8 ? )
+ )
+ ( /536FB978 $noname  P21 CONN_8 {Lib=CONN_8}
+  (    1 ? )
+  (    2 ? )
+  (    3 ? )
+  (    4 ? )
+  (    5 ? )
+  (    6 ? )
+  (    7 ? )
+  (    8 ? )
+ )
+ ( /536FB973 $noname  P19 CONN_8 {Lib=CONN_8}
+  (    1 ? )
+  (    2 ? )
+  (    3 ? )
+  (    4 ? )
+  (    5 ? )
+  (    6 ? )
+  (    7 ? )
+  (    8 ? )
+ )
+ ( /536FB96D $noname  P17 CONN_8 {Lib=CONN_8}
+  (    1 ? )
+  (    2 ? )
+  (    3 ? )
+  (    4 ? )
+  (    5 ? )
+  (    6 ? )
+  (    7 ? )
+  (    8 ? )
+ )
+ ( /536FB96B $noname  P15 CONN_8 {Lib=CONN_8}
+  (    1 ? )
+  (    2 ? )
+  (    3 ? )
+  (    4 ? )
+  (    5 ? )
+  (    6 ? )
+  (    7 ? )
+  (    8 ? )
+ )
+ ( /536FB969 $noname  P16 CONN_8 {Lib=CONN_8}
+  (    1 ? )
+  (    2 ? )
+  (    3 ? )
+  (    4 ? )
+  (    5 ? )
+  (    6 ? )
+  (    7 ? )
+  (    8 ? )
+ )
+ ( /536FB966 $noname  P14 CONN_8 {Lib=CONN_8}
+  (    1 ? )
+  (    2 ? )
+  (    3 ? )
+  (    4 ? )
+  (    5 ? )
+  (    6 ? )
+  (    7 ? )
+  (    8 ? )
+ )
+ ( /536F99F6 C_CER  C5 100nF {Lib=C}
+  (    1 +5V )
+  (    2 GND )
+ )
+ ( /536F98C3 $noname  P13 CONN_8 {Lib=CONN_8}
+  (    1 N-000070 )
+  (    2 N-000051 )
+  (    3 N-000042 )
+  (    4 N-000043 )
+  (    5 N-000044 )
+  (    6 N-000045 )
+  (    7 N-000046 )
+  (    8 N-000047 )
+ )
+ ( /536F98C2 $noname  P10 CONN_8 {Lib=CONN_8}
+  (    1 N-000070 )
+  (    2 N-000051 )
+  (    3 N-000042 )
+  (    4 N-000043 )
+  (    5 N-000044 )
+  (    6 N-000045 )
+  (    7 N-000046 )
+  (    8 N-000047 )
+ )
+ ( /536F98B3 $noname  P7 CONN_8 {Lib=CONN_8}
+  (    1 N-000062 )
+  (    2 N-000063 )
+  (    3 N-000064 )
+  (    4 N-000065 )
+  (    5 N-000066 )
+  (    6 N-000067 )
+  (    7 N-000068 )
+  (    8 N-000069 )
+ )
+ ( /536F98B0 $noname  P9 CONN_8 {Lib=CONN_8}
+  (    1 N-000062 )
+  (    2 N-000063 )
+  (    3 N-000064 )
+  (    4 N-000065 )
+  (    5 N-000066 )
+  (    6 N-000067 )
+  (    7 N-000068 )
+  (    8 N-000069 )
+ )
+ ( /536F9871 $noname  P5 CONN_5 {Lib=CONN_5}
+  (    1 N-000033 )
+  (    2 N-000034 )
+  (    3 N-000035 )
+  (    4 N-000036 )
+  (    5 N-000037 )
+ )
+ ( /536F9866 $noname  P6 CONN_5 {Lib=CONN_5}
+  (    1 N-000038 )
+  (    2 N-000039 )
+  (    3 N-000040 )
+  (    4 N-000027 )
+  (    5 N-000018 )
+ )
+ ( /536F985F $noname  P12 CONN_5 {Lib=CONN_5}
+  (    1 N-000019 )
+  (    2 N-000020 )
+  (    3 N-000021 )
+  (    4 N-000022 )
+  (    5 N-000023 )
+ )
+ ( /536F9854 $noname  P11 CONN_5 {Lib=CONN_5}
+  (    1 N-000024 )
+  (    2 N-000025 )
+  (    3 N-000026 )
+  (    4 N-000017 )
+  (    5 N-000028 )
+ )
+ ( /536F97B7 R4  R1 100R {Lib=R}
+  (    1 N-000029 )
+  (    2 /ENC_CAP )
+ )
+ ( /536F97A7 $noname  P8 CAPTURE {Lib=CONN_3}
+  (    1 GND )
+  (    2 N-000031 )
+  (    3 N-000029 )
+ )
+ ( /536F9573 $noname  P4 CONN_5X2 {Lib=CONN_5X2}
+  (    1 N-000038 )
+  (    2 N-000019 )
+  (    3 N-000039 )
+  (    4 N-000020 )
+  (    5 N-000040 )
+  (    6 N-000021 )
+  (    7 N-000027 )
+  (    8 N-000022 )
+  (    9 N-000018 )
+  (   10 N-000023 )
+ )
+ ( /536F9569 $noname  P3 CONN_5X2 {Lib=CONN_5X2}
+  (    1 N-000033 )
+  (    2 N-000024 )
+  (    3 N-000034 )
+  (    4 N-000025 )
+  (    5 N-000035 )
+  (    6 N-000026 )
+  (    7 N-000036 )
+  (    8 N-000017 )
+  (    9 N-000037 )
+  (   10 N-000028 )
+ )
+ ( /536F8E2D $noname  C2 100n {Lib=C}
+  (    1 +5V )
+  (    2 GND )
+ )
+ ( /536F8D03 $noname  C3 100uF {Lib=CAPAPOL}
+  (    1 +5V )
+  (    2 GND )
+ )
+ ( /536F8CB1 $noname  C4 100n {Lib=C}
+  (    1 +5V )
+  (    2 GND )
+ )
+ ( /536F8B17 $noname  P1 COMM {Lib=CONN_4}
+  (    1 GND )
+  (    2 /P0.1/CAN_TXD/RXD3/SCL1 )
+  (    3 /P0.1/CAN_RX1/TXD3/SDA1 )
+  (    4 +5V )
+ )
+ ( /536F89A9 $noname  P2 ENCODER {Lib=CONN_5X2}
+  (    1 GND )
+  (    2 /ENC_ZN )
+  (    3 /ENC_ZP )
+  (    4 /ENC_BN )
+  (    5 /ENC_BP )
+  (    6 /ENC_AN )
+  (    7 /ENC_AP )
+  (    8 GND )
+  (    9 +5V )
+  (   10 ? )
+ )
+ ( /4E1435F8 HOLE_3MM  H4 MOUNT_HOLE {Lib=MOUNT_HOLE}
+ )
+ ( /4E1435F7 HOLE_3MM  H3 MOUNT_HOLE {Lib=MOUNT_HOLE}
+ )
+ ( /4E1435F4 HOLE_3MM  H2 MOUNT_HOLE {Lib=MOUNT_HOLE}
+ )
+ ( /4E1435EA HOLE_3MM  H1 MOUNT_HOLE {Lib=MOUNT_HOLE}
+ )
+ ( /4E0AF935 MBED  J11 MBED_NXP {Lib=MBED}
+  (    1 GND )
+  (    2 +5V )
+  (    3 ? )
+  (    4 ? )
+  (    5 ? )
+  (    6 /ENC_A )
+  (    7 ? )
+  (    8 /ENC_B )
+  (    9 /P0.1/CAN_RX1/TXD3/SDA1 )
+  (   10 /P0.1/CAN_TXD/RXD3/SCL1 )
+  (   11 /ENC_Z )
+  (   12 /ENC_DI )
+  (   13 /ENC_CLK )
+  (   14 ? )
+  (   15 /ENC_CAP )
+  (   16 /ENC_Z )
+  (   17 ? )
+  (   18 ? )
+  (   19 ? )
+  (   20 ? )
+  (   21 ? )
+  (   22 ? )
+  (   23 ? )
+  (   24 ? )
+  (   25 ? )
+  (   26 ? )
+  (   27 ? )
+  (   28 ? )
+  (   29 ? )
+  (   30 /ENC_CLK )
+  (   31 N-000111 )
+  (   32 N-000136 )
+  (   33 /RX+ )
+  (   34 /RX- )
+  (   35 /TX+ )
+  (   36 /TX- )
+  (   37 ? )
+  (   38 ? )
+  (   39 ? )
+  (   40 +3V3 )
+ )
+ ( /4E0CF8D6 con-usb-USB-A-H  J1 USB-A {Lib=USB-A}
+  (   D+ N-000111 )
+  (   D- N-000136 )
+  (  GND GND )
+  ( VBUS +5V )
+ )
+ ( /4E0B1D13 C_CER  C1 100nF {Lib=C}
+  (    1 GND )
+  (    2 +3V3 )
+ )
+ ( /4E0B182D RJ45_HALO_HFJ11  J4 MAGJACK {Lib=MAGJACK}
+  (    1 /TX+ )
+  (    2 +3V3 )
+  (    3 /TX- )
+  (    4 /RX+ )
+  (    5 +3V3 )
+  (    6 /RX- )
+  (    8 GND )
+  (    9 ? )
+  (   10 ? )
+  (   11 ? )
+  (   12 ? )
+  (   13 GND )
+ )
+ ( /4E0B0D49 R4  R8 2K2 {Lib=R}
+  (    1 +5V )
+  (    2 /P0.1/CAN_TXD/RXD3/SCL1 )
+ )
+ ( /4E0AEA02 R4  R7 2K2 {Lib=R}
+  (    1 +5V )
+  (    2 /P0.1/CAN_RX1/TXD3/SDA1 )
+ )
+)
+*
+{ Allowed footprints by component:
+$component U1
+ *16*
+$endlist
+$component R2
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component C5
+ SM*
+ C?
+ C1-1
+$endlist
+$component R1
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component C2
+ SM*
+ C?
+ C1-1
+$endlist
+$component C3
+ CP*
+ SM*
+$endlist
+$component C4
+ SM*
+ C?
+ C1-1
+$endlist
+$component C1
+ SM*
+ C?
+ C1-1
+$endlist
+$component R8
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R7
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$endfootprintlist
+}
+{ Pin List by Nets
+Net 17 "" ""
+ P3 8
+ P11 4
+Net 18 "" ""
+ P4 9
+ P6 5
+Net 19 "" ""
+ P12 1
+ P4 2
+Net 20 "" ""
+ P12 2
+ P4 4
+Net 21 "" ""
+ P12 3
+ P4 6
+Net 22 "" ""
+ P12 4
+ P4 8
+Net 23 "" ""
+ P12 5
+ P4 10
+Net 24 "" ""
+ P3 2
+ P11 1
+Net 25 "" ""
+ P3 4
+ P11 2
+Net 26 "" ""
+ P3 6
+ P11 3
+Net 27 "" ""
+ P4 7
+ P6 4
+Net 28 "" ""
+ P3 10
+ P11 5
+Net 29 "" ""
+ P8 3
+ R1 1
+Net 30 "GND" "GND"
+ C2 2
+ P27 9
+ P26 4
+ U1 15
+ K3 3
+ K3 2
+ K3 1
+ C1 1
+ P2 1
+ P1 1
+ J1 GND
+ C4 2
+ C3 2
+ U1 12
+ U1 8
+ J4 8
+ P2 8
+ P8 1
+ C5 2
+ J4 13
+ P27 1
+ J11 1
+Net 31 "" ""
+ P8 2
+ R2 1
+Net 33 "" ""
+ P3 1
+ P5 1
+Net 34 "" ""
+ P3 3
+ P5 2
+Net 35 "" ""
+ P3 5
+ P5 3
+Net 36 "" ""
+ P3 7
+ P5 4
+Net 37 "" ""
+ P5 5
+ P3 9
+Net 38 "" ""
+ P4 1
+ P6 1
+Net 39 "" ""
+ P4 3
+ P6 2
+Net 40 "" ""
+ P4 5
+ P6 3
+Net 42 "" ""
+ P10 3
+ P13 3
+ P23 3
+Net 43 "" ""
+ P10 4
+ P23 4
+ P13 4
+Net 44 "" ""
+ P13 5
+ P10 5
+ P23 5
+Net 45 "" ""
+ P23 6
+ P10 6
+ P13 6
+Net 46 "" ""
+ P10 7
+ P13 7
+ P23 7
+Net 47 "" ""
+ P10 8
+ P13 8
+ P23 8
+Net 51 "" ""
+ P23 2
+ P10 2
+ P13 2
+Net 62 "" ""
+ P7 1
+ P22 1
+ P9 1
+Net 63 "" ""
+ P22 2
+ P9 2
+ P7 2
+Net 64 "" ""
+ P22 3
+ P7 3
+ P9 3
+Net 65 "" ""
+ P22 4
+ P7 4
+ P9 4
+Net 66 "" ""
+ P7 5
+ P22 5
+ P9 5
+Net 67 "" ""
+ P9 6
+ P22 6
+ P7 6
+Net 68 "" ""
+ P9 7
+ P7 7
+ P22 7
+Net 69 "" ""
+ P7 8
+ P22 8
+ P9 8
+Net 70 "" ""
+ P13 1
+ P10 1
+ P23 1
+Net 111 "" ""
+ J11 31
+ J1 D+
+Net 115 "/ENC_CAP" "ENC_CAP"
+ R1 2
+ J11 15
+Net 121 "+5V" "+5V"
+ J1 VBUS
+ R8 1
+ R7 1
+ J11 2
+ P27 5
+ U1 16
+ K2 3
+ K2 2
+ K2 1
+ C5 1
+ P1 4
+ C3 1
+ C2 1
+ C4 1
+ U1 4
+ P2 9
+Net 127 "/TX-" "TX-"
+ J11 36
+ J4 3
+Net 128 "/TX+" "TX+"
+ J4 1
+ J11 35
+Net 134 "+3V3" "+3V3"
+ K1 1
+ K1 2
+ C1 2
+ J4 5
+ J11 40
+ J4 2
+Net 135 "/RX+" "RX+"
+ J11 33
+ J4 4
+Net 136 "" ""
+ J1 D-
+ J11 32
+Net 137 "/ENC_Z" "ENC_Z"
+ J11 16
+ J11 11
+ P26 1
+ U1 9
+Net 139 "/ENC_CLK" "ENC_CLK"
+ J11 30
+ J11 13
+Net 140 "/ENC_B" "ENC_B"
+ U1 7
+ J11 8
+ P26 2
+Net 141 "/ENC_A" "ENC_A"
+ J11 6
+ P26 3
+ U1 1
+Net 142 "/ENC_BN" "ENC_BN"
+ P2 4
+ U1 5
+ P27 7
+Net 143 "/RX-" "RX-"
+ J11 34
+ J4 6
+Net 155 "/ENC_AP" "ENC_AP"
+ U1 2
+ P27 4
+ P2 7
+Net 156 "/ENC_AN" "ENC_AN"
+ P27 8
+ U1 3
+ P2 6
+Net 157 "/ENC_BP" "ENC_BP"
+ U1 6
+ P27 3
+ P2 5
+Net 158 "/P0.1/CAN_RX1/TXD3/SDA1" "P0.1/CAN_RX1/TXD3/SDA1"
+ J11 9
+ P1 3
+ R7 2
+Net 166 "/P0.1/CAN_TXD/RXD3/SCL1" "P0.1/CAN_TXD/RXD3/SCL1"
+ R8 2
+ J11 10
+ P1 2
+Net 167 "/ENC_ZP" "ENC_ZP"
+ U1 10
+ P2 3
+ P27 2
+Net 184 "/ENC_DI" "ENC_DI"
+ R2 2
+ J11 12
+Net 185 "/ENC_ZN" "ENC_ZN"
+ P2 2
+ P27 6
+ U1 11
+}
+#End
